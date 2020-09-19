@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">No Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="helloWord">Welcome</string>
+    <string name="resturants">Resturants</string>
+    <string name="cafe">cafe</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="supermarket">SuperMarket</string>
+    <string name="grinta">Grinta CR</string>
+    <string name="secondary_text">"pizza | crep | sandawtches |  meals "</string>
+    <string name="supporting_text">جا - بجوار كوبرى القهوتين 35764 ‏المنصورة‏، ‏الدقهلية‏، ‏مصر‏</string>
+    <string name="action_2">"اطلب المنيو "</string>
+</resources>
